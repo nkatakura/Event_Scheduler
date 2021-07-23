@@ -1,0 +1,5 @@
+data validation
+add security
+
+sign in to view/edit events and sign ups
+
